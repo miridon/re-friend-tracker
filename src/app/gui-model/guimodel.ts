@@ -220,6 +220,13 @@ export class GuiModel {
                             "color": "wisteria",
                             "page": "groupspage",
                         },
+                        {
+                            "type": "button",
+                            "name": "Activities",
+                            "icon": "fa-calendar",
+                            "color": "red",
+                            "page": "ActivityPage",
+                        },
                     ]
                 },
                 {
